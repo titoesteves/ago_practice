@@ -1,1 +1,1 @@
-# ago_practice
+# algo_practice
